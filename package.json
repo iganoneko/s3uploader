@@ -1,0 +1,18 @@
+{
+  "name": "s3-uploader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "iganoneko@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.1.0",
+    "aws-sdk": "^2.512.0",
+    "command-line-args": "^5.1.1",
+    "command-line-usage": "^6.0.2",
+    "glob": "^7.1.4",
+    "mime-types": "^2.1.24",
+    "minimatch": "^3.0.4"
+  }
+}
