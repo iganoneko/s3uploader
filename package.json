@@ -1,5 +1,5 @@
 {
-  "name": "iganoneko@s3uploader",
+  "name": "iganoneko.s3uploader",
   "version": "0.0.1",
   "description": "AWS S3 Content Uploader",
   "main": "index.js",
