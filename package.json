@@ -2,7 +2,7 @@
   "name": "iganoneko.s3uploader",
   "version": "1.0.1",
   "description": "AWS S3 Content Uploader",
-  "main": "index.js",
+  "main": "uploader.js",
   "author": "iganoneko@gmail.com",
   "license": "MIT",
   "repository": {
