@@ -1,6 +1,6 @@
 {
   "name": "iganoneko.s3uploader",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "AWS S3 Content Uploader",
   "main": "index.js",
   "scripts": {},
