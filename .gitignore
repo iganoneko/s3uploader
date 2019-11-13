@@ -1,0 +1,16 @@
+node_modules
+bower_components
+.envrc
+.idea
+.vscode
+*.lock
+*.log
+*.swp
+*.ini
+*.iml
+.DS_Store
+Thumbs.db
+*~
+\#*\#
+.\#*
+~$*
