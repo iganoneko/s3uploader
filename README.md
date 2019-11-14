@@ -1,9 +1,9 @@
-# iganoneko.s3uploader
+# @iganoneko/s3uploader
 
 ## When using the Callback function
 
 ```javascript
-const uploader = require("iganoneko.s3uploader");
+const uploader = require("@iganoneko/s3uploader");
 
 uploader({
     cwd: "./dist",
@@ -36,7 +36,7 @@ uploader({
 ## When using Promise
 
 ```javascript
-const uploader = require("iganoneko.s3uploader/promise");
+const uploader = require("@iganoneko/s3uploader/promise");
 uploader({ ...options }).then(function () {
     console.info('success');
 }).catch(function (e) {
